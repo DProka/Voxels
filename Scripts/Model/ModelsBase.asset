@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32151de8a156b4c48891b54b43f078ce, type: 3}
+  m_Name: ModelsBase
+  m_EditorClassIdentifier: 
+  modelsArray:
+  - {fileID: 4900000, guid: 9d43f55b51fe3dd4c9c36a9c408f992f, type: 3}
+  - {fileID: 4900000, guid: 270729d5b7f3c834c8ff9f12d2117e62, type: 3}
+  - {fileID: 4900000, guid: 84ad48418d657ff47838b63fa3412ed6, type: 3}
+  - {fileID: 4900000, guid: 8f8e77948c465214aac2573ad2225b8c, type: 3}
+  - {fileID: 4900000, guid: bdc1b2728e24bda4b8f38df97ac7012c, type: 3}
+  - {fileID: 4900000, guid: 05eeed84b24b5cf48b2dcf6010b3be81, type: 3}
+  - {fileID: 4900000, guid: a9924f99297eb164eb81b2a41def98bd, type: 3}
+  - {fileID: 4900000, guid: 40f591b631b16ef419c6f49268682a9a, type: 3}
+  - {fileID: 4900000, guid: 2278efbb46ff69849aba3e0bdaed6d20, type: 3}
+  - {fileID: 4900000, guid: f3b0b231b0bc5eb4489b9ba0b8714196, type: 3}
+  - {fileID: 4900000, guid: 09a6fec9680af724dbd86990a32e6cdf, type: 3}
+  - {fileID: 4900000, guid: dfbb8e844d7a677459946377783e855e, type: 3}
+  - {fileID: 4900000, guid: 87fa90e33a06c5f418220070014c5e07, type: 3}
+  - {fileID: 4900000, guid: 9cbb6c508712ca545a1e40c2cab4b3a7, type: 3}
+  - {fileID: 4900000, guid: 40f1753f792c7d740a50d75c4222de76, type: 3}
+  - {fileID: 4900000, guid: 107c43acec1ef8a43b188ee961849f62, type: 3}
+  - {fileID: 4900000, guid: 5bfd56102ca57de44894d63b45827cce, type: 3}
+  - {fileID: 4900000, guid: a97b82b8ab3cbc94580d7f74dd24379f, type: 3}
+  - {fileID: 4900000, guid: 00bc024ec989d5e4586486555109af7c, type: 3}
+  - {fileID: 4900000, guid: dbfabcb72919ee84ca46043c21038cb6, type: 3}
+  - {fileID: 4900000, guid: 1deca96ecb74fc24399313e78bf03b25, type: 3}
+  - {fileID: 4900000, guid: b0ac28cd283c6024c816827b0200e8ca, type: 3}
+  - {fileID: 4900000, guid: f9edb771b840c9a4789e4029b52c34b3, type: 3}
+  - {fileID: 4900000, guid: 2e31f22aa0d93f342b2e6a952e8ef398, type: 3}
+  - {fileID: 4900000, guid: cc6fe25d2cf71c44887d61539e896f8c, type: 3}
+  - {fileID: 4900000, guid: ab1dff5ea9d762645abd17473f8289b3, type: 3}
+  - {fileID: 4900000, guid: a55dfb881ca4c5b4c9d81628f412df1d, type: 3}
+  - {fileID: 4900000, guid: cb2409aa007187548b1326500041c64c, type: 3}
+  - {fileID: 4900000, guid: cb2409aa007187548b1326500041c64c, type: 3}
+  - {fileID: 4900000, guid: cb2409aa007187548b1326500041c64c, type: 3}
+  challengeModelsArray:
+  - {fileID: 4900000, guid: e8b287c52bc2078439a30a498c7874f8, type: 3}
+  - {fileID: 4900000, guid: f50502d2d0ae91441ba9026505a89b08, type: 3}
+  challengeModelLvlArray: 08000000180000001f000000250000002d00000035000000
+  challengeModelRewardArray: 2c010000c2010000c2010000c2010000c2010000c2010000
